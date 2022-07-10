@@ -1,0 +1,19 @@
+{
+  "name": "ts-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash": "^4.14.182",
+    "loadsh": "^0.0.4",
+    "lodash": "^4.17.21",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "parse": "ts-node main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.3"
+  }
+}
